@@ -1,5 +1,5 @@
 # Word_Length_Calculator
-# Word Length Calculator
+
 
 This simple Java project calculates the length of an entered word.
 
